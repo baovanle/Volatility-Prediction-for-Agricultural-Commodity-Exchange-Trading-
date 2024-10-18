@@ -1,2 +1,10 @@
-The computer was constructed to serve as the principal server for the system's process flows. The primary server is responsible for storing all pertinent resource records and managing all domain inquiries. The PC utilized for this study possesses the following specifications: Ubuntu 20.04.5 LTS operating system, an AMD® Ryzen 7 5800x 8-core processor with 16 threads, and 128.0 GB RAM. The coding environment used is Visual Studio, which includes support for Python programming. The database management system being utilized is PostgreSQL.
-The machine learning prediction model was constructed utilizing the Python development environment (IDE), in conjunction with the subsequent libraries. The dataset was imported using Pandas. NumPy library is used for doing mathematical computations. Matplotlib is used to create visual representations. Scikit-learn is a library designed for machine learning purposes. Seaborn is a package designed to visualize statistical data. TensorFlow is an open-source library developed by the Google Brain team. It is designed to facilitate numerical calculation for deep learning and machine learning tasks [54]. Keras is an open-source Python library that effectively implements Deep Learning algorithms.
+The computer was constructed to serve as the principal server for the system's process flows. 
+The primary server is responsible for storing all pertinent resource records and managing all domain inquiries. 
+The PC utilized for this study possesses the following specifications: Ubuntu 20.04.5 LTS operating system, an AMD® Ryzen 7 5800x 8-core processor with 16 threads, and 128.0 GB RAM. 
+The coding environment used is Visual Studio, which includes support for Python programming.
+The database management system being utilized is PostgreSQL.
+The machine learning prediction model was constructed utilizing the Python development environment (IDE), in conjunction with the subsequent libraries. 
+The dataset was imported using Pandas. NumPy library is used for doing mathematical computations. Matplotlib is used to create visual representations. 
+Scikit-learn is a library designed for machine learning purposes. Seaborn is a package designed to visualize statistical data. 
+TensorFlow is an open-source library developed by the Google Brain team. It is designed to facilitate numerical calculation for deep learning and machine learning tasks.
+Keras is an open-source Python library that effectively implements Deep Learning algorithms.
