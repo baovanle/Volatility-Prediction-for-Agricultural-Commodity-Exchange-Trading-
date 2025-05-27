@@ -1,6 +1,6 @@
-# Volatility-Prediction-for-Agricultural-Commodity-Exchange-Trading-
-Volatility-Prediction-for-Agricultural-Commodity-Exchange-Trading
-Project name: Volatility Prediction for Agricultural Commodity Exchange Trading - Room 407 - (National) Korea Maritime & Ocean University Authors: Ngoc Bao Van Le , Prof. Jun-Ho Huh
+# Volatility-Prediction-for-Agricultural-Commodity-Exchange-Trading-  
+Volatility-Prediction-for-Agricultural-Commodity-Exchange-Trading  
+Project name: Volatility Prediction for Agricultural Commodity Exchange Trading - Room 407 - (National) Korea Maritime & Ocean University Authors: Ngoc Bao Van Le , Prof. Jun-Ho Huh  
 
 The rapid advancement of computer science technology and artificial intelligence has generated heightened investor interest in quantitative trading, primarily attributable to its exceptional efficiency and consistent performance. Existing research applied deep learning and machine learning models to predict the volatility of specific risks for stocks [1], stock price index [2-3], commodities [4-5], etc. As an example, GARCH and Multivariate LSTM models were proved to predict realized volatility in the context of crypto trading strategies and risk management [6]. 
 This paper presents the development of volatility prediction system for the agricultural commodity exchange trading domain using a volatility prediction based on GARCH and LSTM models.  We have considered a selection of eleven agricultural commodities that are actively traded on the Intercontinental Exchange (ICE) and Chicago Mercantile Exchange (CME) [7], can be namely Cocoa, Coffee, Cotton, Lumber, Orange Juice, Sugar, Soybean Oil, Soybean, Corn, Oat, and Rough Rice. Cotton is a natural fiber shrub that grows on the cotton plant - a tropical and subtropical shrub. The prototype has been trained and back-tested in the cotton commodity market trading data from 2010-2023. Cotton fiber is the primary raw material in the industrial textile industry [8].  
